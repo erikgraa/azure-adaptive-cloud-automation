@@ -7,3 +7,4 @@ This repository will contain scripts - mostly PowerShell - and other smaller aut
 
 ## Related blog posts:
 * https://blog.graa.dev/AzureLocal-ArcGateway
+* https://blog.graa.dev/AzureLocal-SoftwarePowerShell
