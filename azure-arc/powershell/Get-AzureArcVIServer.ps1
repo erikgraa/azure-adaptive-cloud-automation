@@ -94,8 +94,8 @@ function Get-AzureArcVIServer {
 
     end {
         if ($null -ne $token) {
-            Clear-Variable -Name $token -Force -ErrorAction SilentlyContinue
-            Clear-Variable -Name $headers -Force -ErrorAction SilentlyContinue
+            Clear-Variable -Name token -Force -ErrorAction SilentlyContinue
+            Clear-Variable -Name headers -Force -ErrorAction SilentlyContinue
         }
     }
 }
